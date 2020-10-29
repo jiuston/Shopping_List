@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping_List</string>
+    <string name="add_item">Añadir Item</string>
+    <string name="pescado">Pescado</string>
+    <string name="carne">Carne</string>
+    <string name="queso">Queso</string>
+    <string name="manzana">Manzana</string>
+    <string name="leche">Leche</string>
+    <string name="arroz">Arroz</string>
+</resources>

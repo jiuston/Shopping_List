@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Shopping_List</string>
+    <string name="add_item">Add Item</string>
+    <string name="pescado">Fish</string>
+    <string name="carne">Meat</string>
+    <string name="queso">Cheese</string>
+    <string name="manzana">Apple</string>
+    <string name="leche">Milk</string>
+    <string name="arroz">Rice</string>
 </resources>
